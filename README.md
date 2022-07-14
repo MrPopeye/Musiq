@@ -2,4 +2,4 @@
 
 This is a music site that i made for a school assignment.
 
-![](https://postimg.cc/jnDRmQJ5)
+![](musiq photo/Screenshot_1.png)
